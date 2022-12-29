@@ -22,5 +22,5 @@ console.log(novaOperacao)
 
 const alura = "Alura";
 
-console.log(alura * primeiroNumero)
+console.log(alura + primeiroNumero)
 
