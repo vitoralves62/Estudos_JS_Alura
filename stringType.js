@@ -1,10 +1,10 @@
-const texto1 = "Vrau nelas";
-const texto2 = 'Problema que eu estorei novin né'
-const senha = "kayro1mauro2zauro3";
+const texto1 = "texto um";
+const texto2 = 'Usuário123'
+const senha = "senha123segura45";
 const StringNumeros = "345678";
 
-const citacao = 'O problem é que o vulgo dele é ';
-const meuNome = "Malvadão";
+const citacao = 'Hexa 2026 vem com o ';
+const meuNome = "Vini Jr";
 
 //console.log(citacao)
 
